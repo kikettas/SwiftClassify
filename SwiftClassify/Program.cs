@@ -44,6 +44,9 @@ namespace SwiftClassify
 
 				// Ok
 				Console.WriteLine("Done");
+				
+				// End
+				return;
 			}
 			catch (Exception ex)
 			{
